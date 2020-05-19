@@ -1,0 +1,8 @@
+e2e-tests/
+node_modules/
+docs/
+build/
+postman/
+
+serviceWorker.js
+sw.js
