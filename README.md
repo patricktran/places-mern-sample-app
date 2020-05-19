@@ -1,5 +1,7 @@
 # Places MERN App - ReactJs Front-End / NodeJs Back-End
 
+![screenshot](/screenshot.png?raw=true)
+
 Sample MERN app using:
 ReactJs
 React Hooks
